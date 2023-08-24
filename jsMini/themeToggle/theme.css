@@ -1,3 +1,7 @@
-.container{
+.darkmode{
     background-color: black;
+    color: white;
+}
+.darkmode button {
+    background-color: white;
 }
